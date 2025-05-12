@@ -158,7 +158,7 @@ p.note { display: none; }
 <a href="20250512_009.JPG" target="_blank"><img src="20250512_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250512_010.JPG" target="_blank"><img src="20250512_010.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">庭の満開タンポポ</span></h2>
+<h2><span class="yellow">庭のタンポポは満開</span></h2>
 <a href="20250512_011.JPG" target="_blank"><img src="20250512_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250512_012.JPG" target="_blank"><img src="20250512_012.JPG" alt="サンプル画像" width="900" /></a>
     
